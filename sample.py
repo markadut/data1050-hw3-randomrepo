@@ -11,3 +11,5 @@ def odd_number_and_mean_finder(l):
     print(mean)
 
 odd_number_and_mean_finder([1, 2, 3, 4, 5, 6, 7, 8, 9])
+
+print("Hello, this is to test the second commit")
